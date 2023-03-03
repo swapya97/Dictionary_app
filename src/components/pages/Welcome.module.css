@@ -1,0 +1,12 @@
+.welcome {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 40rem;
+	text-align: center;
+	padding: 1rem;
+	font-size: 2rem;
+}
+
+.div {
+	background-color: #0d1117;
+}

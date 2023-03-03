@@ -1,0 +1,25 @@
+.deflink {
+	color: #fff;
+	text-decoration: none;
+	padding: 1rem;
+	border-radius: 5px;
+	background-color: #0d1117;
+	border: 1px solid rgba(240, 246, 252, 0.1);
+}
+.activeNav {
+	background-color: #0455d4;
+	color: #fff;
+}
+
+.navlink ul {
+	list-style: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.navlink li {
+	margin: 1rem;
+	color: #fff;
+	font-size: 1rem;
+}
